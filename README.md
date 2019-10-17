@@ -1,5 +1,5 @@
 ## Life is Chocolate and so is GitHub.
-##life is struggle.
+##life is struggle.so a github
 
 This repository has been created for the sole purpose to learn more about git, github and VCS. As discussed in the workshop that we had/are having.
 Have fun. Practise a lot. Don't fear to do something wrong or break something.
